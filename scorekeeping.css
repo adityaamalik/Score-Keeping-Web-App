@@ -2,11 +2,13 @@
 	color: #f4f009;
 }
 
+
 body {
 	text-align: center;
-	background-color: #bc212c;
+	/* background-color: #bc212c; */
 	font-family: 'Patua One', cursive;
-
+	background: rgb(34,193,195);
+	background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,236,45,0.9671218829328606) 100%);
 }
 
 p {
